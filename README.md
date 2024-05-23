@@ -1,0 +1,1 @@
+This brief video showcases a robotic desktop automation that I developed using the software UiPath StudioX. Its purpose is to streamline tasks in the financial department, significantly reducing hours spent on completing Excel spreadsheets.
